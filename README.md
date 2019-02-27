@@ -1,4 +1,4 @@
-# BabaRoga
+#BabaRoga
 Скриптата е направено во  Ruby. Ги заобиколува DNSите на CloudFlare и ја открива вистинската ИП на серверот.
 Скриптата е одлична за тестирање и курчење кај пријатели, но и за зашитата од DDoS напади.
 
@@ -10,6 +10,6 @@
 или<br />
 <strong>ruby hatcloud.rb --byp вашата страна </strong><br />
 
-#Слика
-<img src="https://i.imgur.com/iB2e0AU.png"> <br />
+#Пример Слика
+<img src="https://i.imgur.com/zR55YBx.png"> <br />
 
