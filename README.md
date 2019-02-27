@@ -10,6 +10,6 @@
 или<br />
 <strong>ruby hatcloud.rb --byp вашата страна </strong><br />
 
-#Пример Слика
+# Пример Слика
 <img src="https://i.imgur.com/zR55YBx.png"> <br />
 
